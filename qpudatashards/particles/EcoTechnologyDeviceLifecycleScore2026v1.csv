@@ -1,0 +1,6 @@
+deviceid,category,softwarefirst,embodiedco2_kg,expectedlifetime_years,annual_energy_savings_kwh,annual_pollutant_reduction_tons,ecoimpactscore_01,notes
+ECO-HUD-PHX-01,eco_hud_display,1,120,10,45000,0.00,0.81,"District EcoHUD; software overlays on existing screens; avoids new actuators"
+AIR-TREE-COR-01,planning_tool,1,80,12,0,0.012,0.77,"Airtree corridor optimizer; reallocates planting to PM2.5/heat hotspots"
+CIRC-PASS-BLD-01,circular_passport,1,150,20,0,0.025,0.84,"Circular materials passport for midrise infill; 18% embodied CO2 reduction"
+WEC-DASH-PHX-01,kpi_dashboard,1,95,8,38000,0.00,0.79,"Water-energy-carbon tri-dashboard; shifts behavior & budgets, no new field hardware"
+CEIM-GOV-CORE-01,governance_kernel,1,60,15,0,0.018,0.83,"CEIM/Karma kernel; computes eco_impact and governance metrics from existing sensors"
